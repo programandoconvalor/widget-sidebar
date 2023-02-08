@@ -1,7 +1,9 @@
 {
-  "name": "widget-sidebar",
-  "version": "0.1.0",
-  "private": true,
+  "name": "widget-jc",
+  "version": "1.0.0",
+  "description": "library for widget by JC",
+  "main": "pages/index.tsx",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

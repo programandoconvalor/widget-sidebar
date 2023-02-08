@@ -49,7 +49,7 @@ export default function Home() {
             priority
           />
           <div className={styles.thirteen}>
-            Widget
+            Widget JC
           </div>
         </div>
 
